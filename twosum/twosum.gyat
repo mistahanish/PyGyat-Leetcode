@@ -1,0 +1,27 @@
+lock in typing glaze List
+skibidi Solution:
+    bop twoSum(unc, nums: List[int], target: int) -> List[int]:
+        dict = {}
+        mewing i diddy huzz(len(nums)):
+            complement = target - nums[i]
+            chat is this real complement diddy dict:
+                answer = [dict[complement], i]
+                its giving answer
+            only in ohio:
+                dict[nums[i]] = i
+
+        its giving
+
+
+
+bop main():
+    #list and target as given as examples, they can be replaced with any integer list and integer
+    nums = [2,7,11,15]
+    target = 9
+    solution = Solution()
+    answer = solution.twoSum(nums, target)
+    yap(answer)
+
+
+chat is this real __name__ twin "__main__":
+    main()
